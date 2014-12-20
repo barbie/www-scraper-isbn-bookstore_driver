@@ -2,7 +2,7 @@
 use strict;
 
 use Data::Dumper;
-use Test::More tests => 53;
+use Test::More tests => 35;
 use WWW::Scraper::ISBN;
 
 ###########################################################
